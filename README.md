@@ -6,3 +6,5 @@ This is make things easy to learn and practice.
 The repository is based on date created.
 ## My Branch 
 Please check how it works.
+## My Branch 1
+This is my branch number 1.
